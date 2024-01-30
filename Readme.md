@@ -150,4 +150,9 @@ Fichero suscriber.php
 
 Ejecute este a traves de una terminal con `php suscriber.php`
 
+Puedes obtener mas detalles de implementacion de las siguientes referencias:
+- https://www.emqx.com/en/blog/how-to-use-mqtt-in-php
+- https://youtube.com/watch?v=x5GML1FqcTQ
+- https://www.youtube.com/watch?v=U8f95agyUJg
+
 
